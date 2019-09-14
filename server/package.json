@@ -1,0 +1,23 @@
+{
+  "name": "dungeon-builder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aevers3/dungeon-builder.git"
+  },
+  "author": "Alex Evers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aevers3/dungeon-builder/issues"
+  },
+  "homepage": "https://github.com/aevers3/dungeon-builder#readme",
+  "dependencies": {
+    "passport-http": "^0.3.0"
+  }
+}
